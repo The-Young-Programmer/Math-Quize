@@ -129,8 +129,8 @@ input:focus, button:focus {
      
      // Created by NemoNet
 var myTimeout = setTimeout(function() {
-         alert("Hello .....am NemoNet aka The Young Programmer\n     This my first programming game "); 
-         alert("pls kindly give me a star on WhatsApp")
+         alert("Hello 🖐 .....am NemoNet aka The Young Programmer\n     This my first programming game "); 
+         alert("pls kindly give me a star 🌟 on WhatsApp")
       }, 15000);
       
 //Declaring Variables
@@ -377,7 +377,7 @@ $(function() {
   </div> 
   <br /><br />
   <footer> 
-   <a href="https://wa.me/2348156622466?text=I%20like%20your%20programming,%20my%20name%20is%20" target="_blank"> WhatsApp </a> 
+   <a style="color:white;" href="https://wa.me/2348156622466?text=I%20Love%20your%20programming,%20my%20name%20is%20" target="_blank"> WhatsApp </a> 
   </footer> 
   <script src="script.js"></script> 
  </body>
