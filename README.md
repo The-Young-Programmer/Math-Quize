@@ -379,6 +379,5 @@ $(function() {
   <footer> 
    <a href="https://wa.me/2348156622466?text=I%20like%20your%20programming,%20my%20name%20is%20" target="_blank"> WhatsApp </a> 
   </footer> 
-  <script src="script.js"></script> 
  </body>
 </html>
