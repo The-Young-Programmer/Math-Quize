@@ -1,0 +1,114 @@
+/* Created by The Young Programmer aka NemoNet */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background: linear-gradient(90deg, rgba(13,120,207,1) 19%, rgba(18,182,231,1) 93%);
+    color:white;
+}
+#question {
+    font-size: 40px;
+    font-weight: bold;
+}
+button, input {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    
+}
+input {
+    height: 42px;
+    font-size: 30px;
+    width: 150px;
+    text-align: center;
+    color: rgba(13,120,207,1);
+    border: 2px solid white;
+    margin: 8px;
+    border-radius: 10px;
+}
+#quizbody button {
+    width: 100px;
+    height: 50px;
+    margin: 8px;
+    font-size: 22px;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+#serial {
+    font-size: 22px;
+    font-weight: bold;
+}
+#diff button {
+    width: 180px;
+    height: 50px;
+    margin: 8px;
+    font-size: 21px;
+    background-color: transparent;
+    color: white;
+    font-weight: bolder;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+#result {
+    font-size: 25px;
+    font-weight: bold;
+}
+.titlebar {
+    margin: 10px;
+}
+.titlebar img {
+    height: 25px;
+    width: 25px;
+    float:left;
+    padding-top: 7px;
+}
+#count {
+    padding: 2px;
+    background-color: white;
+    margin: 2px;
+    color: rgba(13,120,207,1);
+    border-radius: 10px;
+    width: 65px;
+    display: inline-block;
+    height: 35px;
+    text-align:right;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    background-color: #dbdbdb;
+    font-weight: bold;
+}
+#count span {
+    font-size: 27px;
+    font-weight: bold;
+}
+#logo {
+    font-size: 30px;
+    font-weight: bold;
+}
+#nums button {
+    height: 44px;
+    width: 44px;
+    font-size: 23px;
+}
+#timer, #bar {
+    height: 10px;
+    width: 220px;
+}
+#timer {
+    background-color: transparent;
+    border: 1px solid white;
+}
+#bar {
+    background-color: white;
+    position: relative;
+    float: left;
+}
+input:focus, button:focus {
+    outline: 0;
+    outline-color: transparent;
+    outline-style: none;
+}
