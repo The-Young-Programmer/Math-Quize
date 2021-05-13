@@ -1,0 +1,72 @@
+<!-- Created by The Young Programmer aka NemoNet -->
+
+<html>
+    <head>
+        <title>Math Quiz</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    </head>
+    <body>
+    <span id="logo">Math Quiz</span>
+    <div class="titlebar">
+        <div id="count">
+            <img src="https://image.flaticon.com/icons/svg/1277/1277603.svg"><span id="total">0</span>
+        </div>
+        <div id="count">
+            <img src="https://image.flaticon.com/icons/svg/1277/1277588.svg"><span id="correct">0</span>
+        </div>
+        <div id="count">
+            <img src="https://image.flaticon.com/icons/svg/1277/1277612.svg"><span id="wrong">0</span>
+        </div>
+    </div>
+        
+    <div id="diff">
+        <h2>Select level</h2>
+        <button onclick="level(1)">Very Easy</button><br />
+        <button onclick="level(2)">Easy</button><br />
+        <button onclick="level(3)">Medium</button><br />
+        <button onclick="level(4)">Hard</button><br />
+        <button onclick="level(5)">Very Hard</button>
+        <div style="height:20px"></div>
+        <button style="height: 40px;width:220px" id="mode">Quick Mode (OFF)</button><button style="width:40px;height:40px" id="ex">?</button>
+    </div>
+    
+    <div id="quizbody">
+        <div style="height:10px"></div>
+        <div id='serial'><span>Question. </span><span id='no'>1</span></div>
+        <p id="question"></p>
+        <center><div id="timer">
+            <div id="bar"></div>
+        </div></center>
+        <br />
+        <input id="answer" readonly>
+        <button id="del" style="width:45px;padding:5px;">←</button>
+        <br />
+        <button id="donebtn" onclick="check()">Done</button>
+        <div id="nums">     
+            <button onclick="ins(1)">1</button>
+            <button onclick="ins(2)">2</button>
+            <button onclick="ins(3)">3</button>
+            <button onclick="ins(4)">4</button>
+            <br />
+            <button onclick="ins(5)">5</button>
+            <button onclick="ins(6)">6</button>
+            <button onclick="ins(7)">7</button>
+            <button onclick="ins(8)">8</button>
+            <br />
+            <button onclick="ins(9)">9</button>
+            <button onclick="ins(0)">0</button>
+            <button onclick="ins('-')">-</button>
+            <button onclick="ins('.')">.</button>
+        </div>
+        <br />
+        <button id="res">Reset</button>
+    </div>
+    <br /><br />
+        <footer>  <div><right><form action="https://wa.me/2348156622466?text=I%20like%20your%20programming,%20my%20name%20is%20"><button style="color:white; background-color:skyblue;" action="">WhatsApp</button> </form></right>  </div>
+      </footer>
+    </body>
+    <script src="script.js"></script>
+</html>
