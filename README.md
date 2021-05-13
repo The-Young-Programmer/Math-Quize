@@ -1,7 +1,7 @@
 <!-- Created by The Young Programmer aka NemoNet -->
 <html>
  <head> 
-  <title>Math Quiz</title> 
+  <title>Math yQuiz</title> 
   <meta name="viewport" content="width=device-width, initial-scale=1"> 
   <style type="text/css">
   /* Created by NemoNet */
