@@ -4,11 +4,17 @@ MATH-QUIZE
 
 
 This was developed by The Young Programmers (TYP 🖥).
+
 Math quiz helps to increase or boost Human knowledge. In Mathematical calculations and every day Life Calculations. 
 
 
+
+
 TO DOWNLOAD IT:
-It very easy to download.... Just click on the link below 
+It very easy to download.... 
+Just click on the 
+"Math-Quiz.1.0.apk" above 
+
 
 
 
@@ -16,21 +22,31 @@ It very easy to download.... Just click on the link below
 REVIEWS :
 
 👉 It has 5 Levels, 
+
 "Very Easy"
+
 "Easy"
+
 "Medium"
+
 "Hard"
+
 "Very Hard"
-👉 It also has an instant AI answer review 
+
+
+
+👉 It also has an instant AI answer result
+
+
 
 
 ![Screenshot_20211018-011904](https://user-images.githubusercontent.com/79866006/137650477-fbd8e1a3-a2ae-4c0a-8886-58ae50a3a912.jpg)
 
 
+
+
 👉 It has a nice friendly user interface 
 
-
-![Screenshot_20211018-012045](https://user-images.githubusercontent.com/79866006/137650576-32c1ed60-1b43-474c-a5e6-27a0735f850e.jpg)
 
 
 
