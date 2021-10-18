@@ -19,6 +19,10 @@ It very easy to download....
 Just click on the 
 "Math Quiz-1.0.apk" above 
 
+It will show "This type of file can harm your device, will you like to download" Click OK.... it just a normal warning if you're downloading an App from other source. 
+
+We assure you that it's 100% safe and secure. 
+
 
 
 
