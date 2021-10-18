@@ -14,10 +14,13 @@ _______________________________________________
 TO DOWNLOAD IT:
 
 
-It very easy to download.... 
+It very easy to download.... follow the process 
 
-Just click on the 
-🔰"Math Quiz-1.0.apk"🔰 above 
+click on the 🔰"view code"
+
+then click on 🔰"Math Quiz-1.0.apk" 
+
+then click on the 🔰"view raw"
 
 It will show "This type of file can harm your device, will you like to download" Click OK.... it just a normal warning if you're downloading an App from other source. 
 
