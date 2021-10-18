@@ -10,7 +10,7 @@ Math quiz helps to increase or boost Human knowledge. In Mathematical calculatio
 
 
 
-
+_______________________________________________
 TO DOWNLOAD IT:
 
 
@@ -26,7 +26,7 @@ We assure you that it's 100% safe and secure.
 
 
 
-
+______________________________________________
 REVIEWS :
 
 👉 It has 5 Levels, 
@@ -60,3 +60,11 @@ REVIEWS :
 
 
 
+
+NOTE :
+
+THIS IS BROUGHT TO YOU BY "THE YOUNG PROGRAMMER [TYP 🖥]".
+
+click this link for more programming :
+
+https://wa.link/g63lqt
