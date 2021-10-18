@@ -10,10 +10,14 @@ Math quiz helps to increase or boost Human knowledge. In Mathematical calculatio
 
 
 
+
 TO DOWNLOAD IT:
+
+
 It very easy to download.... 
+
 Just click on the 
-"Math-Quiz.1.0.apk" above 
+"Math Quiz-1.0.apk" above 
 
 
 
@@ -38,6 +42,9 @@ REVIEWS :
 👉 It also has an instant AI answer result
 
 
+👉 It has a nice friendly user interface 
+
+
 
 
 ![Screenshot_20211018-011904](https://user-images.githubusercontent.com/79866006/137650477-fbd8e1a3-a2ae-4c0a-8886-58ae50a3a912.jpg)
@@ -45,9 +52,7 @@ REVIEWS :
 
 
 
-👉 It has a nice friendly user interface 
+![Screenshot_20211018-011947](https://user-images.githubusercontent.com/79866006/137651330-48d58806-0c5d-4a8d-ac77-242cbdae4341.jpg)
 
 
 
-
-![Screenshot_20211018-012030](https://user-images.githubusercontent.com/79866006/137650619-1c9cfab6-5409-4aca-8cd6-bcf1976bb359.jpg)
