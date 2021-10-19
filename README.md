@@ -1,4 +1,5 @@
 MATH-QUIZE
+------------
 
 ![61EtieVGu3L](https://user-images.githubusercontent.com/79866006/137650178-9e3c5aaa-7db8-4ba3-b0a6-0881084ab2b7.png)
 
@@ -12,6 +13,7 @@ Math quiz helps to increase or boost Human knowledge. In Mathematical calculatio
 
 _______________________________________________
 TO DOWNLOAD IT:
+----------------
 
 
 It very easy to download.... follow the process 
@@ -31,6 +33,7 @@ We assure you that it's 100% safe and secure.
 
 ______________________________________________
 REVIEWS :
+---------
 
 👉 It has 5 Levels, 
 
@@ -65,6 +68,7 @@ REVIEWS :
 
 
 NOTE :
+------
 
 THIS IS BROUGHT TO YOU BY "THE YOUNG PROGRAMMER [TYP 🖥]".
 
