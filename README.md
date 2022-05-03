@@ -72,6 +72,7 @@ NOTE :
 
 THIS IS BROUGHT TO YOU BY "THE YOUNG PROGRAMMER [TYP 🖥]".
 
-click this link for more programming :
+follow for more programming Project. 
 
-https://wa.link/g63lqt
+
+
