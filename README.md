@@ -20,7 +20,7 @@ It very easy to download.... follow the process
 
 click on the 🔰"view code"
 
-then click on 🔰"Math Quiz-1.0.apk" 
+then click on 🔰"Math Quiz-2.1.apk" 
 
 then click on the 🔰"view raw"
 
