@@ -15,20 +15,11 @@ _______________________________________________
 TO DOWNLOAD IT:
 ----------------
 
+**Download only on Android**
 
 It very easy to download.... follow the process 
 
-click on the 🔰"view code"
-
-then click on 🔰"Math Quiz-2.1.apk" 
-
-then click on the 🔰"view raw"
-
-It will show "This type of file can harm your device, will you like to download" Click OK.... it just a normal warning if you're downloading an App from other source. 
-
-We assure you that it's 100% safe and secure. 
-
-
+visit - https://apkpure.com/p/com.typ.mathquiz
 
 
 ______________________________________________
